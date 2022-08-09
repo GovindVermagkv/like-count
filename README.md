@@ -1,2 +1,4 @@
-# output!
-(https://user-images.githubusercontent.com/100123540/183596329-eccc0aef-a994-41c5-b82b-c3dcb2c28686.png)
+# output
+
+![like](https://user-images.githubusercontent.com/100123540/183596600-dc1bdaf7-e40f-4d7b-81d3-a301b646f58f.png)
+
